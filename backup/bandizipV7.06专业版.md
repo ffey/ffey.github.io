@@ -1,4 +1,4 @@
 bandizip专业版可以使用修复压缩包和破解密码
-知道你们讨厌夸克和度盘我特意用的蓝奏
-下载 [wwp.lanzouq.com/i09xf225mare](https://ffey.github.io/post/url)
+链接：https://pan.baidu.com/s/1tA2ZDKE6X4j-6sP-_nyklw?pwd=lb5i 
+提取码：lb5i
 密码:6a08
