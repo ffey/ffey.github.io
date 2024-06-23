@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Minecraft七记的个人博客下载站</title><link>https://ffey.github.io</link><description>我是Minecraft七记以后我将在这个博客里发布一些我视频里的资源</description><copyright>Minecraft七记的个人博客下载站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/150881989?v=4</url><title>avatar</title><link>https://ffey.github.io</link></image><lastBuildDate>Sun, 23 Jun 2024 03:39:55 +0000</lastBuildDate><managingEditor>Minecraft七记的个人博客下载站</managingEditor><ttl>60</ttl><webMaster>Minecraft七记的个人博客下载站</webMaster><item><title>Typora激活教程</title><link>https://ffey.github.io/post/Typora-ji-huo-jiao-cheng.html</link><description># 准备工作&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Minecraft七记的个人博客下载站</title><link>https://ffey.github.io</link><description>我是Minecraft七记以后我将在这个博客里发布一些我视频里的资源</description><copyright>Minecraft七记的个人博客下载站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/150881989?v=4</url><title>avatar</title><link>https://ffey.github.io</link></image><lastBuildDate>Sun, 23 Jun 2024 04:30:54 +0000</lastBuildDate><managingEditor>Minecraft七记的个人博客下载站</managingEditor><ttl>60</ttl><webMaster>Minecraft七记的个人博客下载站</webMaster><item><title>Typora激活教程</title><link>https://ffey.github.io/post/Typora-ji-huo-jiao-cheng.html</link><description># 准备工作&#13;
 &#13;
-1. 首先下载[Typora的1.8版本](https://wwp.lanzouq.com/ibEwN22hizoj)&#13;
-&#13;
-2. 把里面的两个文件解压到Typora的安装目录&#13;
+1. 首先下载[Typora的1.8版本](https://wwp.lanzouq.com/ibEwN22hizoj '蓝奏云')&#13;
+2. 再下载激活工具[^下载链接]&#13;
+3. 把里面的两个文件解压到Typora的安装目录&#13;
 &#13;
 ![](D:\图片\2.png)&#13;
 &#13;
 # 激活过程&#13;
 &#13;
-3. 在搜索框里输入cmd后回车&#13;
+4. 在搜索框里输入cmd后回车&#13;
 &#13;
 ![](D:\图片\3.png)&#13;
 &#13;
@@ -30,9 +30,9 @@
 ![](https://raw.gitmirror.com/743859910/Typora_Unlocker/master/img/Typora_9.webp)&#13;
 &#13;
 然后就会看到 Typora 已激活&#13;
-&#13;
-![](https://raw.gitmirror.com/743859910/Typora_Unlocker/master/img/Typora_10.webp)&#13;
-。</description><guid isPermaLink="true">https://ffey.github.io/post/Typora-ji-huo-jiao-cheng.html</guid><pubDate>Sun, 23 Jun 2024 03:25:53 +0000</pubDate></item><item><title>openfrp内网穿透</title><link>https://ffey.github.io/post/openfrp-nei-wang-chuan-tou.html</link><description>openfrp内网穿透是一款非常好用的内网穿透软件&#13;
+---&#13;
+[^下载链接]:https://www.lanzouy.com/b00rnjxib&#13;
+如链接打不开，可将lanzouy中的y用26个英文字母中的任意一个替换即可。</description><guid isPermaLink="true">https://ffey.github.io/post/Typora-ji-huo-jiao-cheng.html</guid><pubDate>Sun, 23 Jun 2024 03:25:53 +0000</pubDate></item><item><title>openfrp内网穿透</title><link>https://ffey.github.io/post/openfrp-nei-wang-chuan-tou.html</link><description>openfrp内网穿透是一款非常好用的内网穿透软件&#13;
 下载链接：https://pan.baidu.com/s/1x4RT5TAChdWdGNyPn40_dw?pwd=30h1 &#13;
 提取码：30h1。</description><guid isPermaLink="true">https://ffey.github.io/post/openfrp-nei-wang-chuan-tou.html</guid><pubDate>Sat, 22 Jun 2024 06:36:48 +0000</pubDate></item><item><title>Radmin Lan</title><link>https://ffey.github.io/post/Radmin%20Lan.html</link><description>关于 Radmin LAN&#13;
 Radmin LAN是一款使用简单的免费软件产品，用于创建虚拟本地网络。</description><guid isPermaLink="true">https://ffey.github.io/post/Radmin%20Lan.html</guid><pubDate>Sat, 22 Jun 2024 05:18:53 +0000</pubDate></item><item><title>QQ截图独立版</title><link>https://ffey.github.io/post/QQ-jie-tu-du-li-ban.html</link><description># 教程&#13;

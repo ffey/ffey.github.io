@@ -1,14 +1,14 @@
 # 准备工作
 
-1. 首先下载[Typora的1.8版本](https://wwp.lanzouq.com/ibEwN22hizoj)
-
-2. 把里面的两个文件解压到Typora的安装目录
+1. 首先下载[Typora的1.8版本](https://wwp.lanzouq.com/ibEwN22hizoj "蓝奏云")
+2. 再下载激活工具[^下载链接]
+3. 把里面的两个文件解压到Typora的安装目录
 
 ![](D:\图片\2.png)
 
 # 激活过程
 
-3. 在搜索框里输入cmd后回车
+4. 在搜索框里输入cmd后回车
 
 ![](D:\图片\3.png)
 
@@ -29,5 +29,9 @@
 ![](https://raw.gitmirror.com/743859910/Typora_Unlocker/master/img/Typora_9.webp)
 
 然后就会看到 Typora 已激活
+---
+[^下载链接]:https://www.lanzouy.com/b00rnjxib
+如链接打不开，可将lanzouy中的y用26个英文字母中的任意一个替换即可。
+密码：1234
 
 ![](https://raw.gitmirror.com/743859910/Typora_Unlocker/master/img/Typora_10.webp)
