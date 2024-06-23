@@ -1,6 +1,6 @@
 # 准备工作
 
-1. (首先下载[[Typora的1.8版本](https://www.lanzouy.com/b00rnjxib)](https://www.lanzouy.com/b00rnjxib)
+1. 首先下载[[Typora的1.8版本]
 
 ​	密码1234
 
